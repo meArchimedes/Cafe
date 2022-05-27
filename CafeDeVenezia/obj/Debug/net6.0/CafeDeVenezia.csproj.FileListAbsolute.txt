@@ -1,0 +1,75 @@
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.AssemblyReference.cache
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.GeneratedMSBuildEditorConfig.editorconfig
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfoInputs.cache
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfo.cs
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.CoreCompileInputs.cache
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.exe
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.deps.json
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.runtimeconfig.json
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.dll
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\bin\Debug\net6.0\ref\CafeDeVenezia.dll
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.pdb
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.dll
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\ref\CafeDeVenezia.dll
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.pdb
+H:\DesignPatterns\CafeDeVenezia\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.genruntimeconfig.cache
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.AssemblyReference.cache
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfoInputs.cache
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfo.cs
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.CoreCompileInputs.cache
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.dll
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.pdb
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.exe
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.deps.json
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.runtimeconfig.json
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.dll
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.pdb
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\refint\CafeDeVenezia.dll
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.genruntimeconfig.cache
+D:\Users\Lenovo\Downloads\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\ref\CafeDeVenezia.dll
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.exe
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.deps.json
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.runtimeconfig.json
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.dll
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\ref\CafeDeVenezia.dll
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.pdb
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.AssemblyReference.cache
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfoInputs.cache
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfo.cs
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.CoreCompileInputs.cache
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.dll
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\ref\CafeDeVenezia.dll
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.pdb
+C:\Users\אסף אסתר\Desktop\מלכי שפיץ\Cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.exe
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.deps.json
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.dll
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\ref\CafeDeVenezia.dll
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.pdb
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.dll
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\ref\CafeDeVenezia.dll
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.pdb
+I:\הגשת מבחנים ועבודות\הגשה C#\פרויקט סופי\אילה מרקוביץ אסתי אסף ומלכי שפיץ - מעודכן תודה\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.genruntimeconfig.cache
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.exe
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.deps.json
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.runtimeconfig.json
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.dll
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\ref\CafeDeVenezia.dll
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\bin\Debug\net6.0\CafeDeVenezia.pdb
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.AssemblyReference.cache
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.GeneratedMSBuildEditorConfig.editorconfig
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfoInputs.cache
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.AssemblyInfo.cs
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.csproj.CoreCompileInputs.cache
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.dll
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\ref\CafeDeVenezia.dll
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.pdb
+H:\DesignPatterns\cafe\מלכי שפיץ אסתי אסף ואילה מרקוביץ\CafeDeVenezia\obj\Debug\net6.0\CafeDeVenezia.genruntimeconfig.cache

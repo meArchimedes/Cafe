@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\DesignPatterns\\cafe\\מלכי שפיץ אסתי אסף ואילה מרקוביץ\\CafeDeVenezia\\CafeDeVenezia.csproj": {}
+  },
+  "projects": {
+    "H:\\DesignPatterns\\cafe\\מלכי שפיץ אסתי אסף ואילה מרקוביץ\\CafeDeVenezia\\CafeDeVenezia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\DesignPatterns\\cafe\\מלכי שפיץ אסתי אסף ואילה מרקוביץ\\CafeDeVenezia\\CafeDeVenezia.csproj",
+        "projectName": "CafeDeVenezia",
+        "projectPath": "H:\\DesignPatterns\\cafe\\מלכי שפיץ אסתי אסף ואילה מרקוביץ\\CafeDeVenezia\\CafeDeVenezia.csproj",
+        "packagesPath": "C:\\Users\\אסף אסתר\\.nuget\\packages\\",
+        "outputPath": "H:\\DesignPatterns\\cafe\\מלכי שפיץ אסתי אסף ואילה מרקוביץ\\CafeDeVenezia\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\אסף אסתר\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
